@@ -286,7 +286,7 @@ if (send_button or st.session_state.enter_pressed) and user_input:
 
             # Call FastAPI endpoint
             response = requests.post(
-                API_URL,
+                f"{API_URL}/chat",
                 json={"query": query_with_context},
                 timeout=30
             )
@@ -369,4 +369,5 @@ st.markdown(
     "Powered by AI • Made by Venkat"
     "</div>",
     unsafe_allow_html=True
+
 )
