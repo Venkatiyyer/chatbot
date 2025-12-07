@@ -8,4 +8,5 @@ langchain-community
 groq
 streamlit
 icecream
+snoop
 
