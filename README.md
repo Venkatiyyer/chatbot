@@ -1,5 +1,4 @@
 
-```md
 # 🚀 VenkyAI Assistant
 
 VenkyAI is a GPT-like AI assistant built with a **FastAPI backend** and a **Streamlit frontend**. It supports intelligent chat using **Groq**, **LangChain**, and **Google Generative AI**, and is designed for easy cloud deployment on **Render** (backend) and **Streamlit Community Cloud** (frontend).
