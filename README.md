@@ -172,7 +172,7 @@ python -m uvicorn backend:app --host 0.0.0.0 --port 8000
 **runtime.txt**
 
 ```
-python-3.10.13
+python-3.12
 ```
 
 ---
