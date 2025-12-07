@@ -1,13 +1,9 @@
-faiss-cpu
-groq
-langchain-groq
-PyPDF2
-langchain_google_genai
-langchain
-streamlit
-langchain_community
+fastapi
+uvicorn
 python-dotenv
-pypdf
-# google-cloud-aiplatform>=1.38
-#fastapi
-#uvicorn
+langchain
+langchain-groq
+langchain-google-genai
+langchain-community
+groq
+streamlit
